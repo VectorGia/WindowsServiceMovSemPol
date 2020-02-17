@@ -1,0 +1,120 @@
+C:\Users\Omnisys\source\repos\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Omnisys\source\repos\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\Npgsql.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Buffers.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Memory.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Text.Json.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.ValueTuple.dll
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\Npgsql.pdb
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\Npgsql.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Buffers.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Memory.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Text.Json.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Omnisys\source\repos\WindowsService1\bin\Debug\System.ValueTuple.xml
+C:\Users\Omnisys\source\repos\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
+C:\Users\Omnisys\source\repos\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Omnisys\source\repos\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\Npgsql.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Text.Json.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\Npgsql.pdb
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\Npgsql.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Text.Json.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrador\Desktop\Public\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Public\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Administrador\Desktop\Public\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Public\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Public\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Administrador\Desktop\Public\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\Npgsql.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Buffers.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Memory.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Text.Json.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.ValueTuple.dll
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\Npgsql.pdb
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\Npgsql.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Buffers.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Memory.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Text.Json.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\bin\Debug\System.ValueTuple.xml
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Omnisys\Desktop\servicioWinds\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\WindowsService1.exe.config
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\WindowsService1.exe
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\WindowsService1.pdb
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\Npgsql.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Buffers.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Data.Odbc.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Memory.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Numerics.Vectors.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Text.Encodings.Web.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Text.Json.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.ValueTuple.dll
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\Npgsql.pdb
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\Npgsql.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Buffers.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Memory.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Numerics.Vectors.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Text.Encodings.Web.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Text.Json.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\bin\Debug\System.ValueTuple.xml
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\obj\Debug\WindowsService1.csproj.CopyComplete
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\obj\Debug\WindowsService1.exe
+C:\Repositorio GIA\Enero2019\Servicio Balanza Redefinicion\WindowsService\obj\Debug\WindowsService1.pdb
