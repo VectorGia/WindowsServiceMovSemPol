@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WindowsServiceSemanal.Util;
 
 namespace WindowsServiceSemanal.Servicio
 {
@@ -18,8 +19,7 @@ namespace WindowsServiceSemanal.Servicio
         public ValidaExtraccion()
         {
             //Constructor
-            //conP = new NpgsqlConnection("User ID=postgres;Password=omnisys;Host=192.168.1.78;Port=5433;Database=GIA;Pooling=true;");
-            //con = new NpgsqlConnection("User ID=postgres;Password=omnisys;Host=127.0.0.1;Port=5432;Database=GIA;Pooling=true;");
+
             con = conex.ConnexionDB();
         }
 
@@ -39,9 +39,11 @@ namespace WindowsServiceSemanal.Servicio
             string consulta = " select  id ,"
                 + " fecha_extraccion ," 
                 + " hora_extraccion ," 
-                + " id_empresa " 
-                + " from  etl_prog " ;
-                //+ " where  id_empresa  = " + id_empresa;
+                + " id_empresa , " 
+                + " modulo "
+                + " from  etl_prog " 
+                //+ " where  id_empresa  = " + idEmpresa
+                + " where modulo =  '"+ Constantes.MODULO_SEMANAL+"'" ;
 
             try
             {

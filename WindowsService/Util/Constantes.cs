@@ -13,7 +13,8 @@ namespace WindowsServiceSemanal.Util
         public const string EST_EXT_ERR = "Con error";
         public const string EST_EXT_FIN = "Finaliazdo";
         public const string MENSAJE_CORREO_ETL = "ETL Balanza Programada";
-
+        public const string MODULO_SEMANAL = "semanal";
+        public const string MODULO_BALANZA = "balanza";
         public const string TIPO_EXT_MANUAL = "MANUAL";
         public const string TIPO_EXT_PROGRAMADA = "PROGRAMADA";
         public const string CSV_PATH_BALANZA = @"C:\GIA\balanza\";
@@ -42,7 +43,10 @@ namespace WindowsServiceSemanal.Util
                                                     + "id_version,"
                                                     + "cfd_ruta_pdf,"
                                                     + "cfd_ruta_xml,"
-                                                    + "uuid";
+                                                    + "uuid,"
+                                                    + "tipo_extraccion,"
+                                                    + "fecha_carga,"
+                                                    + "hora_carga";
 
         public const string HEADER_BALANZA_CSV = "cta,"
                                                  + "scta,"

@@ -23,8 +23,6 @@ namespace WindowsServiceSemanal.Servicio
         public string fecha_extraccion { get; set; }
         public string hora_extraccion { get; set; }
         public Int64 id_empresa { get; set; }
-
-
-
+        public string modulo { get; set; }
     }
 }

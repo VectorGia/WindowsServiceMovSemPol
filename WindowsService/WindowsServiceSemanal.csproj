@@ -87,6 +87,7 @@
     <Compile Include="Models\DSN.cs" />
     <Compile Include="Models\Proceso.cs" />
     <Compile Include="Models\ScSaldoConCc.cs" />
+    <Compile Include="Models\Semanal.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="ProjectInstaller.cs">
       <SubType>Component</SubType>
@@ -104,8 +105,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\Balanza.cs" />
     <Compile Include="Servicio\ConfiguracionCorreoDA.cs" />
-    <Compile Include="Servicio\ETLBalanzaDA.cs" />
+    <Compile Include="Servicio\ETLBalanzaDAp.cs" />
     <Compile Include="Models\ETLProg.cs" />
+    <Compile Include="Servicio\ETLMovPolizaSemanalDA.cs" />
     <Compile Include="Servicio\ProcesoDA.cs" />
     <Compile Include="Servicio\ValidaExtraccion.cs" />
     <Compile Include="Util\Constantes.cs" />
