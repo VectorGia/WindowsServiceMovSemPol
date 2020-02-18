@@ -8,10 +8,10 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsService1.Models;
-using WindowsService1.Util;
+using WindowsServiceSemanal.Models;
+using WindowsServiceSemanal.Util;
 
-namespace WindowsService1.Servicio
+namespace WindowsServiceSemanal.Servicio
 {
     public class ETLBalanzaDA
     {

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsService1.Servicio
+namespace WindowsServiceSemanal.Servicio
 {
     public class ValidaExtraccion
     {

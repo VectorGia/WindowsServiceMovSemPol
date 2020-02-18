@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsService1.Models
+namespace WindowsServiceSemanal.Models
 {
     public class Proceso
     {

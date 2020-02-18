@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsService1.Models;
+using WindowsServiceSemanal.Models;
 using Microsoft.Win32;
-using WindowsService1.Servicio;
+using WindowsServiceSemanal.Servicio;
 
-namespace WindowsService1.Util
+namespace WindowsServiceSemanal.Util
 {
     public class DSNConfig
     {

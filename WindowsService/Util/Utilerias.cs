@@ -7,7 +7,7 @@ using System.Text;
 using System.IO;
 using Npgsql;
 
-namespace WindowsService1.Util
+namespace WindowsServiceSemanal.Util
 {
     public class Utilerias
     {

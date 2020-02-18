@@ -9,11 +9,11 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using WindowsService1.Models;
-using WindowsService1.Servicio;
-using WindowsService1.Util;
+using WindowsServiceSemanal.Models;
+using WindowsServiceSemanal.Servicio;
+using WindowsServiceSemanal.Util;
 
-namespace WindowsService1
+namespace WindowsServiceSemanal
 {
     public partial class Service1 : ServiceBase
     {

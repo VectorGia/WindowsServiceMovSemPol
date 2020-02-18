@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsService1.Models;
+using WindowsServiceSemanal.Models;
 
-namespace WindowsService1.Servicio
+namespace WindowsServiceSemanal.Servicio
 {
     public class ConfiguracionCorreoDA
 

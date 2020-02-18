@@ -5,7 +5,7 @@ using System.Data.Odbc;
 using System.Linq;
 using System.Text;
 
-namespace WindowsService1.Conexion
+namespace WindowsServiceSemanal.Conexion
 {
     public class Conexion
     {
