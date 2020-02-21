@@ -19,10 +19,13 @@ namespace WindowsServiceSemanal.Servicio
         //public int INT_ID_EMPRESA { get; set; }
         //public int EXISTE { get; set; }
 
-        public Int64 id { get; set; }
-        public string fecha_extraccion { get; set; }
-        public string hora_extraccion { get; set; }
+        public Int64 id { set; get; }
+        public string fecha_extraccion { set; get; }
+        public string hora_extraccion { set; get; }
         public Int64 id_empresa { get; set; }
         public string modulo { get; set; }
+        public int anio_inicio { get; set; }
+        public int anio_fin { get; set; }
+        public bool activo { get; set; }
     }
 }
