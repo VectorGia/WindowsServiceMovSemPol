@@ -12,11 +12,11 @@ namespace WindowsServiceSemanal.Util
     {
         public const string EST_EXT_ERR = "Con error";
         public const string EST_EXT_FIN = "Finaliazdo";
-        public const string MENSAJE_CORREO_ETL = "ETL Balanza Programada";
+        public const string MSJ_CORREO_ETL_BALANZA = "ETL Balanza Programada";
         public const string MODULO_SEMANAL = "semanal";
         public const string MODULO_BALANZA = "balanza";
-        public const string TIPO_EXT_MANUAL = "MANUAL";
-        public const string TIPO_EXT_PROGRAMADA = "PROGRAMADA";
+        public const string TIPO_EXT_MANUAL = "Manual";
+        public const string TIPO_EXT_PROGRAMADA = "Programada";
         public const string CSV_PATH_BALANZA = @"C:\GIA\balanza\";
         public const string CSV_PATH_SEMANAL = @"C:\GIA\semanal\";
         public const string NOMBRE_ARCHIVO_POL_SEM = "MovPolizaSemanalExport";
